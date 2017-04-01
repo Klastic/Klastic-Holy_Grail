@@ -1,3 +1,5 @@
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/Klastic/Klastic-Holy_Grail)
+
 ## Meta Data
 Title: Holy Grail  
 Producer: Klastic  
